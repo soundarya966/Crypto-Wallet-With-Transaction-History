@@ -49,7 +49,7 @@ Crypto-Wallet-With-Transaction-History/
 │   └── Main.java
 │
 ├── images/
-│   └── crypto-wallet-output.png
+│   └── crypto-wallet-with-transaction-history-output.png
 │
 ├── README.md
 └── .gitignore
