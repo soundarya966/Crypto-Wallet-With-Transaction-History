@@ -1,3 +1,3 @@
 # Project Output
 
-- Crypto Wallet Output - crypto-wallet-output.png
+- Crypto Wallet with Transaction History Output - crypto-wallet-output.png
